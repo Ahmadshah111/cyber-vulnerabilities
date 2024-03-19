@@ -1,1 +1,2 @@
-"# cyber-vulnerabilities" 
+Improving the handling of sensitive information in your software involves several key practices to ensure that data such as user credentials, personal identifiable information (PII), payment details, and any other confidential data are protected against unauthorized access, leaks, and breaches. Here's a detailed explanation of what actions you can take under the "Secure Sensitive Information Handling" initiative:
+Audit Code for Sensitive Information, Apply Encryption,  Implement Access Controls, Environment Variables for Sensitive Configuration,  Regularly Update and Patch Dependencies, Secure Authentication and Session Management, Secure Development and Deployment Practices.
